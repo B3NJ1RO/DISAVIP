@@ -7,3 +7,9 @@ body {
 h1 {
   color: #0072ce;
 }
+
+h1 {
+  text-align: center;
+  border-bottom: 3px solid #0072ce;
+  padding-bottom: 10px;
+}
