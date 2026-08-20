@@ -1,0 +1,9 @@
+# Carpetas de dependencias
+node_modules/
+
+# Archivos del sistema y del editor
+Thumbs.db
+.vscode/
+
+# Archivos con contraseñas o claves
+.env
