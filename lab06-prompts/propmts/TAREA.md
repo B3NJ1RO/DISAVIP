@@ -67,6 +67,3 @@ Restricción: no uses librerías externas, solo Java estándar (java.util.Scanne
 
 - **Ser demasiado general:** la v1 caía en este error — pedía "un programa que calcule el promedio" sin decir cómo se pondera ni qué validar. Lo corregí en la v2 dando el contexto de los pesos y el rango válido.
 - **No indicar el formato:** en la v1 y la v2 no especifiqué cómo debía organizarse ni presentarse el código, así que la IA lo entregó todo en una sola clase sin comentarios. En la v3 definí explícitamente la estructura en clases, los comentarios Javadoc y el orden (explicación antes del código).
-
-## Capturas de las iteraciones y del resultado
-_(pega aquí tus 3 capturas: v1, v2, v3, y el resultado final del código ejecutándose)_
